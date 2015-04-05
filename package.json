@@ -1,0 +1,26 @@
+{
+  "name": "wofffontloader",
+  "version": "0.1.0",
+  "description": "Tiny and fast font loader for modern browsers",
+  "main": "fontloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulrayes/fontloader.git"
+  },
+  "keywords": [
+    "woff",
+    "woff2",
+    "font",
+    "fonts",
+    "fontface"
+  ],
+  "author": "Paul Rayes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulrayes/fontloader/issues"
+  },
+  "homepage": "https://github.com/paulrayes/fontloader"
+}
