@@ -1,6 +1,6 @@
 {
   "name": "wofffontloader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tiny and fast font loader for modern browsers",
   "main": "fontloader.js",
   "scripts": {
